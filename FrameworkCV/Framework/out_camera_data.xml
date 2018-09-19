@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_Time>"09/01/16 22:24:41"</calibration_Time>
+<nrOfFrames>1</nrOfFrames>
+<image_Width>960</image_Width>
+<image_Height>540</image_Height>
+<board_Width>3</board_Width>
+<board_Height>3</board_Height>
+<square_Size>50.</square_Size>
+<FixAspectRatio>1.</FixAspectRatio>
+<!-- flags:  +fix_aspectRatio +fix_principal_point +zero_tangent_dist -->
+<flagValue>14</flagValue>
+<Camera_Matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1.7152082823777378e+003 0. 4.7950000000000000e+002 0.
+    1.7152082823777378e+003 2.6950000000000000e+002 0. 0. 1.</data></Camera_Matrix>
+<Distortion_Coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    3.3926786094916572e-001 -9.3260014301639664e+000 0. 0.
+    5.5619699572601019e+002</data></Distortion_Coefficients>
+<Avg_Reprojection_Error>2.9719629494767852e-001</Avg_Reprojection_Error>
+<Per_View_Reprojection_Errors type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    2.97196299e-001</data></Per_View_Reprojection_Errors>
+<!-- a set of 6-tuples (rotation vector + translation vector) for each view -->
+<Extrinsic_Parameters type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>6</cols>
+  <dt>d</dt>
+  <data>
+    1.0180040769898760e-001 6.3021882000841162e-002
+    1.4733869052941604e+000 2.5616914810806286e+001
+    -8.1311112350731463e+001 6.3872305803342681e+002</data></Extrinsic_Parameters>
+<Image_points type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>9</cols>
+  <dt>"2f"</dt>
+  <data>
+    5.49072266e+002 4.98281250e+001 5.60992126e+002 1.84488647e+002
+    5.73911560e+002 3.18505432e+002 4.15490417e+002 6.46150360e+001
+    4.29020844e+002 1.97863693e+002 4.41912262e+002 3.30409393e+002
+    2.83319763e+002 7.76746826e+001 2.98163177e+002 2.10458862e+002
+    3.11299957e+002 3.42583679e+002</data></Image_points>
+</opencv_storage>

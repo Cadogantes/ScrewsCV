@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_Time>"08/27/16 13:27:14"</calibration_Time>
+<nrOfFrames>2</nrOfFrames>
+<image_Width>736</image_Width>
+<image_Height>480</image_Height>
+<board_Width>4</board_Width>
+<board_Height>4</board_Height>
+<square_Size>50.</square_Size>
+<FixAspectRatio>1.</FixAspectRatio>
+<!-- flags:  +fix_aspectRatio +fix_principal_point +zero_tangent_dist -->
+<flagValue>14</flagValue>
+<Camera_Matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    2.1511873205611973e+003 0. 3.6750000000000000e+002 0.
+    2.1511873205611973e+003 2.3950000000000000e+002 0. 0. 1.</data></Camera_Matrix>
+<Distortion_Coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    7.6670735787723765e-001 -3.6467839537134660e+002 0. 0.
+    2.1632980853254132e+004</data></Distortion_Coefficients>
+<Avg_Reprojection_Error>6.9795347538167896e-001</Avg_Reprojection_Error>
+<Per_View_Reprojection_Errors type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    7.85767138e-001 5.97367704e-001</data></Per_View_Reprojection_Errors>
+<!-- a set of 6-tuples (rotation vector + translation vector) for each view -->
+<Extrinsic_Parameters type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>6</cols>
+  <dt>d</dt>
+  <data>
+    -4.4055845551083589e-001 -3.1576060734654904e-001
+    -1.5949552619744217e-002 -6.3017478073045119e+001
+    -6.9394869555183789e+001 1.1311342049416701e+003
+    -9.5761411793078899e-001 -1.2563680636602457e-002
+    8.5755149339885137e-002 -4.7812228270266289e+001
+    -1.8482145468251179e+001 1.5366911616413456e+003</data></Extrinsic_Parameters>
+<Image_points type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>16</cols>
+  <dt>"2f"</dt>
+  <data>
+    2.48599915e+002 1.06860229e+002 3.39123993e+002 1.13763359e+002
+    4.27461700e+002 1.20587563e+002 5.12725403e+002 1.27428879e+002
+    2.53055389e+002 1.93608078e+002 3.45303711e+002 1.99387680e+002
+    4.35340668e+002 2.04779953e+002 5.22385193e+002 2.10044144e+002
+    2.59341034e+002 2.81472565e+002 3.53218231e+002 2.86109344e+002
+    4.44828278e+002 2.90380005e+002 5.33144348e+002 2.94458893e+002
+    2.66152618e+002 3.72542603e+002 3.61876007e+002 3.75689117e+002
+    4.54921661e+002 3.78743652e+002 5.44776428e+002 3.81177643e+002
+    3.00790985e+002 2.12878433e+002 3.70491913e+002 2.19071747e+002
+    4.39971680e+002 2.25341110e+002 5.09697998e+002 2.30206680e+002
+    2.94040497e+002 2.53418686e+002 3.65681641e+002 2.59968445e+002
+    4.37220459e+002 2.66255219e+002 5.08879059e+002 2.70632385e+002
+    2.86764069e+002 2.96604462e+002 3.60512970e+002 3.03181061e+002
+    4.34243042e+002 3.09177826e+002 5.07896851e+002 3.13421021e+002
+    2.79170715e+002 3.41757324e+002 3.55011230e+002 3.48626038e+002
+    4.30869141e+002 3.54520996e+002 5.06783234e+002 3.58684875e+002</data></Image_points>
+</opencv_storage>
