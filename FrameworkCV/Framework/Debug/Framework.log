@@ -1,0 +1,10 @@
+﻿Build started 2016-01-31 11:33:52.
+     1>Project "D:\backup\uczelnia archiwum\ELKA\praca magisterska\FrameworkCV\Framework\Framework.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\backup\uczelnia archiwum\ELKA\praca magisterska\FrameworkCV\Debug\Framework.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_core2410d.lib opencv_highgui2410d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\backup\uczelnia archiwum\ELKA\praca magisterska\FrameworkCV\Debug\Framework.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\backup\uczelnia archiwum\ELKA\praca magisterska\FrameworkCV\Debug\Framework.lib" /MACHINE:X86 Debug\Framework.obj
+     1>opencv_highgui2410d.lib(opencv_highgui2410d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "D:\backup\uczelnia archiwum\ELKA\praca magisterska\FrameworkCV\Framework\Framework.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46
